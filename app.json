@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "kanguroTest",
+    "slug": "kanguroTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "kanguroTest"
+}
